@@ -1,16 +1,16 @@
-## Ex-4
+## Ex-04:
 ## Java program to print the even numbers between 1-20
-### Aim:
+### AIM:
 To write a java program to print the even numbers between 1-20.
-### Procedure:
-* Import required packages.
-* Declare main method with the signature "public static void main(String[] args)".
-* By using a for look we can print even numbers 
-* By initilizin i as 0 and i less than or equal to 20 and increment i
-* Display the output
+### ALGORITHM:
+1. Import required packages.
+2. Declare main method with the signature "public static void main(String[] args)".
+3. By using a for look we can print even numbers 
+4. By initilizin i as 0 and i less than or equal to 20 and increment i
+5. Display the output
 
-### Code:
-```
+### PROGRAM:
+```java
 public class Ex4
 {
     public static void main(String[] args)
@@ -25,8 +25,8 @@ public class Ex4
     }
 }
 ```
-### Output:
+### OUTPUT:
 <img width="269" alt="image" src="https://github.com/KeerthikaNagarajan/Java-Ex-4/assets/93427089/b32fe176-8060-40b1-816d-c26f67dcb1f7">
 
-### Result:
+### RESULT:
 The java program to print the even numbers between 1-20 was successfully done.
